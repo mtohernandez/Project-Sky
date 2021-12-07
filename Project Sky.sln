@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project Sky", "Project Sky\Project Sky.vcxproj", "{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Debug|x64.ActiveCfg = Debug|x64
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Debug|x64.Build.0 = Debug|x64
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Debug|x86.Build.0 = Debug|Win32
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Release|x64.ActiveCfg = Release|x64
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Release|x64.Build.0 = Release|x64
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Release|x86.ActiveCfg = Release|Win32
+		{99CEBF16-9DAA-4F5E-9DA5-17068B5738E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E4EB20-3FB5-4075-8AC9-DF62E6B2D300}
+	EndGlobalSection
+EndGlobal

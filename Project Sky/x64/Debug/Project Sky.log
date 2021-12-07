@@ -1,0 +1,4 @@
+﻿  GameState.cpp
+E:\Oceano\Project Sky\Project Sky\Project Sky\GameState.cpp(138,35): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Oceano\Project Sky\Project Sky\Project Sky\GameState.cpp(142,33): warning C4305: '=': truncation from 'double' to 'float'
+  Project Sky.vcxproj -> E:\Oceano\Project Sky\Project Sky\x64\Debug\Project Sky.exe
